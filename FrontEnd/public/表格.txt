@@ -1,0 +1,47 @@
+{
+    "list": [
+        {
+            "name": "Alice",
+            "identity": "普通用户",
+            "gid": 1234,
+            "pkey": "helloworld",
+            "date": "2019-11-1 18:00:59",
+            "func": "转发Bob的信息"
+        },
+        {
+            "name": "Bob",
+            "identity": "普通用户",
+            "gid": 1546,
+            "pkey": "wishyouagoodday",
+            "date": "2019-11-1 18:30:59",
+            "func": "修改了Alice数据的某个参数"
+        },
+        {
+            "name": "Mike",
+            "identity": "普通用户",
+            "gid": 4861,
+            "pkey": "fancycar",
+            "date": "2019-11-1 18:40:59",
+            "func": "查看了John的数据"
+        },
+        {
+            "name": "John",
+            "identity": "普通用户",
+            "gid": 7826,
+            "pkey": "ohmygod",
+            "date": "2019-11-1 18:19:59",
+            "func": "修改Mike的数据拥有者"
+        },
+        {
+            "name": "admin",
+            "identity": "管理员",
+            "gid": 6666,
+            "pkey": "controleverything",
+            "date": "2019-11-1 17:00:59",
+            "func": "修改Mike数据某属性"
+        }
+    ],
+    "pageTotal": 5
+}
+
+
