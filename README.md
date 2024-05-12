@@ -9,6 +9,6 @@
 ![image](https://github.com/Joe-Sun-7/Movie-database-management-system/blob/main/image/add.png)  
 ![image](https://github.com/Joe-Sun-7/Movie-database-management-system/blob/main/image/delete.png)  
 ![image](https://github.com/Joe-Sun-7/Movie-database-management-system/blob/main/image/multi_select.png)  
-![image](https://github.com/Joe-Sun-7/Movie-database-management-system/blob/main/image/grage.png)
+![image](https://github.com/Joe-Sun-7/Movie-database-management-system/blob/main/image/grade.png)
 
 
